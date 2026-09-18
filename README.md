@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Amrutha 👋
 
-<!--
-**Amrutha408/Amrutha408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Data Science Student** | 📊 **Aspiring Data Analyst**
 
-Here are some ideas to get you started:
+I'm a motivated and detail-oriented Data Science student passionate about turning data into meaningful insights. I enjoy learning new technologies, solving problems, and building practical projects using data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Microsoft Excel
+- 📈 Power BI
+- 🧮 Pandas & NumPy
+- 📉 Data Visualization
+- 🧹 Data Cleaning
+- 🔍 Exploratory Data Analysis (EDA)
+- 📐 Statistics
+- 💡 Problem Solving
+
+## 🚀 Projects
+
+### 📊 Sales & E-commerce Dashboard
+Interactive dashboard for analyzing sales and e-commerce data using charts, KPIs, and filters.
+
+### 🗄️ SQL Practice
+Solving SQL problems and practicing queries involving filtering, aggregation, joins, subqueries, and data analysis.
+
+### 🐍 Python Data Analysis
+Working with Python, Pandas, and NumPy to clean, analyze, and explore datasets.
+
+## 📚 Currently Learning
+
+- Advanced SQL
+- Python for Data Analysis
+- Power BI
+- Data Visualization
+- Statistics for Data Analytics
+
+## 🎯 Career Goal
+
+To start my career as a **Data Analyst** and continuously develop my skills in data analysis, visualization, and business intelligence.
+
+## 📫 Connect With Me
+
+💼 **LinkedIn:** https://www.linkedin.com/in/amrutha-cheepurupalli-57921539a
+⭐ *Learning • Building • Improving*
